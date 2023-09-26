@@ -1,4 +1,5 @@
-### Hi there 👋
+## 🙏Thank you for watching my repository!
+
 
 <!--
 **fromitive/fromitive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 💬 About me
+My NicName is fromitive.
+'fromitive' is the word that combined 'from' and 'primitive'.
+
+All issues of the idea we created did not arise when it's are created.
+To solve the problem, we need to think about what the creator's primitive idea.
+To find that, we start *from* the creator's *primitive* idea.
+
+search it, ask it, analyze it and find it
