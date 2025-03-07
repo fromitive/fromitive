@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me
-My NicName is fromitive.
-'fromitive' is the word that combined 'from' and 'primitive'.
+My nickname is fromitive, a word that combines 'from' and 'primitive'.<br>
+Problems don’t always arise at the moment an idea is created.
 
-All issues of the idea we created did not arise when it's are created.
-To solve the problem, we need to think about what the creator's primitive idea.
-To find that, we start *from* the creator's *primitive* idea.
+To solve them, we must trace back to the creator’s primitive intent—<br>
+understanding the original thought behind it.
 
-search it, ask it, analyze it and find it
+So, we start from the primitive idea.<br>
+We have to search, ask, analyze, and discover.
 
 ### Tech Stack
 
